@@ -1,21 +1,13 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil do HellDragoM</title>
-    <!-- Adicione aqui links para folhas de estilo adicionais, se necessário -->
-</head>
-<body>
-    <p>Bem-vindo(a) ao perfil do <strong>HellDragoM</strong> 😁</p>
 
-    <img src="https://i.pinimg.com/originals/3a/db/43/3adb4385b0ad8e89bd73c287433d3359.gif" alt="GIF de boas-vindas" width="100%" style="border-radius: 50%;"/>
+ <p>Bem-vindo(a) ao perfil do <strong>HellDragoM</strong> 😁</p>
 
-    <div>
-        <a href="https://github.com/helldragom">
+<img src="https://i.pinimg.com/originals/3a/db/43/3adb4385b0ad8e89bd73c287433d3359.gif" alt="GIF de boas-vindas" width="100%" style="border-radius: 50%;"/>
+
+    div>
+        a href="https://github.com/helldragom">
             <img src="https://github-readme-stats.vercel.app/api?username=helldrag&amp;show_icons=true&amp;theme=holi&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas do GitHub" height="180em" />
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldragom&amp;layout=compact&amp;langs_count=6&amp;theme=holi" alt="Linguagens mais usadas" height="180em" />
-        </a>
+    </a>
     </div>
 
     <div style="display: inline_block;"><br /> 
@@ -40,5 +32,4 @@
             <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
         </a>
     </div>
-</body>
-</html>
+
