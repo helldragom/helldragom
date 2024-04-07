@@ -1,8 +1,12 @@
+# Bem-vindo ao meu perfil do GitHub! 👋
 
-<p>## <span style="color: #00ffff;">Bem-vindo(a) ao perfil do </span><strong><span style="color: #00ffff;">HellDragoM</span> </strong>😁</p>
+Olá! Eu sou [Seu Nome](https://meuportflfoliohelldragom.000webhostapp.com/), estudante de desenvolvimento de software apaixonado por tecnologia.
 
-<img src="https://i.pinimg.com/originals/3a/db/43/3adb4385b0ad8e89bd73c287433d3359.gif" width="864" height="485"
-  width="100%" border-radius="50%"/>
+## Sobre Mim
+
+- 🌱 Atualmente estou aprendendo [Tecnologia/Assunto].
+- 💼 Estou procurando oportunidades de trabalho como [Posição Desejada].
+- 📫 Como me alcançar: [Seu Email] ou [Outras Redes Sociais].
   
 <div>
   <a href="https://github.com/helldragom"><span style="color: #0dafd4;"> 
