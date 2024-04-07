@@ -3,11 +3,7 @@
 <img src="https://i.pinimg.com/originals/3a/db/43/3adb4385b0ad8e89bd73c287433d3359.gif" width="864" height="485"
   width="100%" border-radius="50%"/>
 
-<div>
-  <a href="https://github.com/helldragom"><span style="color: #0dafd4;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=helldrag&amp;show_icons=true&amp;theme=holi&amp;include_all_commits=true&amp;count_private=true" height="180em" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldragom&amp;layout=compact&amp;langs_count=6&amp;theme=holi" height="180em" /> </span></a>
-</div>
+
 
 <div style="display: inline_block;"><br /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" width="40" height="30" align="center" /> 
