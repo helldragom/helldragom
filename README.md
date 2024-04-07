@@ -5,7 +5,7 @@
   
 <div>
   <a href="https://github.com/helldragom"><span style="color: #0dafd4;"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helldragom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helldragom&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helldragom&amp;layout=compact&amp;langs_count=6&amp;theme=holi" height="180em" /> </span></a>
 </div>
 
