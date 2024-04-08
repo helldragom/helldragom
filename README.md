@@ -6,7 +6,8 @@ Olá! Eu sou [HellDragoM](https://meuportflfoliohelldragom.000webhostapp.com/), 
 
 - 🌱 Atualmente estou aprendendo [Tecnologia/Assunto].
 - 💼 Estou procurando oportunidades de trabalho como [Posição Desejada].
-- 📫 Como me alcançar: [Seu Email] ou [Outras Redes Sociais].
+  
+
   
 <div>
   <a href="https://github.com/helldragom"><span style="color: #0dafd4;"> 
